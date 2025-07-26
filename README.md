@@ -139,10 +139,10 @@ It bridges the gap between **IT governance** and **license performance visibilit
 
 ## 📊 Dashboard Preview
 
-> *(You can embed screenshots or GIFs of each dashboard here)*  
-- `📌 Internal Dashboard`  
-- `📌 External Dashboard`  
-- `📌 Capacity Dashboard`
+- 📌 ![Alt text](https://github.com/Ahmed-Kazlak/License-Tracking-System-Solution/blob/main/Internal.png)
+- 📌 ![Alt text](https://github.com/Ahmed-Kazlak/License-Tracking-System-Solution/blob/main/Extternal.png))
+- 📌 ![Alt text](https://github.com/Ahmed-Kazlak/License-Tracking-System-Solution/blob/main/Capacity.png)
+
 
 ---
 
